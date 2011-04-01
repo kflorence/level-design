@@ -9,4 +9,4 @@ h2. Contents
 
 h2. License
 
-All contents, unless otherwise specified, are released under a dual MIT and GPL license. Some of the model files may be copyrighted to their respective owners, including (but not limited to) "Valve Software":http://valvesoftware.com/.
+All contents, unless otherwise specified, are released under a dual MIT and GPL license.
