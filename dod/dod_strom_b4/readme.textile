@@ -1,0 +1,5 @@
+h1. DOD_STROM (beta 4)
+
+This folder contains pre-compiled map files (.rmf) along with all of the model files, sounds, textures and configurations that were used to compile the map itself. It also contains the compiled version of the map which is playable within Day of Defeat. Simply copy the portion inside of the "map" folder to the "dayofdefeat" folder on your hard drive.
+
+This map has been put here for educational purposes. Feel free to modify the map in any way you see fit and re-release just so long as you give me credit for the original design.

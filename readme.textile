@@ -1,0 +1,12 @@
+h1. Level Design
+
+This repository contains various 3D "level designs":http://en.wikipedia.org/wiki/Map_(video_games) that I have made over the years. I am releasing them here for educational purposes. Please refer to the readme files of individual maps for more information.
+
+h2. Contents
+
+* *Day of Defeat*
+** ==dod_strom_b4==
+
+h2. License
+
+All contents, unless otherwise specified, are released under an MIT license. Some of the model files may be copyrighted to their respective owners, including (but not limited to) "Valve Software":http://valvesoftware.com/.

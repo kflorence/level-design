@@ -1,0 +1,14 @@
+// overview description file for dod_strom_b4
+
+global 
+{
+	ZOOM	1.27
+	ORIGIN	150.81	168.66	-161.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dod_strom_b4.bmp"
+	HEIGHT	-161.00
+}

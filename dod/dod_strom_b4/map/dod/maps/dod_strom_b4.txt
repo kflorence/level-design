@@ -1,0 +1,19 @@
+DOD_STROM (beta 4) by Kyle "Siron" Florence (kyle.florence@gmail.com)
+Fall, 1944, Germany
+
+Allied troops advance on a small german held town.  After setting up
+their headquarters, a small squad of allied soldiers are sent out to
+capture the remaining german forces and secure key positions in town.
+
+Allied Objectives:
+   - Capture the 5 flag points
+
+Axis Objectives:
+   - Capture the 5 flag points
+
+Textures by: Scott "Kamikazi!" Jordan, Svante "Xerent" Ekholm,
+Chad "Masako" Barnsdale, Daniel "kleinluka" Luka, Arjan "IR" Bak.
+Models: Valve, FloMatic, Arc
+Skybox: Kraftstoff
+
+Thanks to: skdr
